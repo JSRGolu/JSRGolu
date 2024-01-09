@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning Video Games Development
 - 💞️ I’m looking to collaborate on a new Video Game Project
-- 📫 You can connect with me at instagram/da_dimtim or discord JSRGolu#0201
+- 📫 You can connect with me at instagram/da_dimtim or discord JSRGolu
 
 <!---
 JSRGolu/JSRGolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
