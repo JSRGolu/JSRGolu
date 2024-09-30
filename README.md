@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Lokesh Vashisht aka JSRGolu
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Video Games Development
-- 💞️ I’m looking to collaborate on a new Video Game Project
-- 📫 You can connect with me at instagram/da_dimtim or discord JSRGolu
-
-<!---
-JSRGolu/JSRGolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>👋 Hi, I’m Lokesh Vashisht aka JSRGolu!</b>
+<br>
+<b>🎮 I’m passionate about Video Games and I’m diving deep into Video Game Development. Currently learning and honing my skills in creating immersive experiences.</b>
+<br>
+<b>🚀 Looking to collaborate on a new and exciting Video Game project! Whether you're a developer, designer, or a fellow gamer, let's create something awesome together.</b>
+<br>
+</b>📬 Feel free to reach out:</b>
+<ul>
+  <li>Instagram: <a href="https://instagram.com/da_dimtim">@da_dimtim</a></li>
+  <li>Discord: jsrgolu</li>
+</ul>
