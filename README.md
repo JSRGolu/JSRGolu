@@ -5,6 +5,6 @@
 🚀 Looking to collaborate on a new and exciting Video Game project! Whether you're a developer, designer, or a fellow gamer, let's create something awesome together.
 
 📬 Feel free to reach out:<br>
-Instagram: <a href="https://www.instagram.com/da_dimtim/">@da_dimtim</a><br>
+Instagram: <a href="https://www.instagram.com/jsr.golu201/">@JSR.Golu201</a><br>
 Discord: jrgolu
 
