@@ -1,4 +1,4 @@
-👋 Hi, I’m Lokesh Vashisht aka JSRGolu!
+👋 こんにちは、ばくは ヴァシシュト・ロケシュ です。
 
 🎮 I’m passionate about Video Games and I’m diving deep into Video Game Development. Currently learning and honing my skills in creating immersive experiences.
 
@@ -6,5 +6,4 @@
 
 📬 Feel free to reach out:<br>
 Instagram: <a href="https://www.instagram.com/jsr.golu201/">@JSR.Golu201</a><br>
-Discord: jrgolu
-
+Discord: jsrgolu
