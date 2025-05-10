@@ -1,4 +1,4 @@
-👋 こんにちは、ばくは ヴァシシュト・ロケシュ です。
+👋 こんにちは、ヴァシシュト・ロケシュ です。
 
 🎮 I’m passionate about Video Games and I’m diving deep into Video Game Development. Currently learning and honing my skills in creating immersive experiences.
 
